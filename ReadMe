@@ -1,1 +1,4 @@
+This is just a very basic website where you can enter the ranks of your own Team and the ranks of the enemy team.
 
+Under the Teams it will display the average of your ranks. With 0 being unranked going up to 18 as global. Unranked Players won't be taken into account
+for their average.
